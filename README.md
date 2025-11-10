@@ -14,7 +14,7 @@ Este repositório contém exemplos práticos para aprender sobre **Cookies** e *
 ## 📁 Exemplos Incluídos
 
 ### 1. 🔐 Sistema de Login
-**Local:** `/login-exemplo/`
+**Local:** `/Desaio8/SistemaDeLogin/`
 
 **Arquivos:**
 - `index.php` - Formulário de login
@@ -29,7 +29,7 @@ Este repositório contém exemplos práticos para aprender sobre **Cookies** e *
 - Destruição segura de sessões
 
 ### 2. 🎨 Sistema de Tema (Claro/Escuro)
-**Local:** `/tema-com-cookies/`
+**Local:** `/Desaio8/PreferenciaDeTema/`
 
 **Arquivos:**
 - `index.php` - Interface para escolher o tema
